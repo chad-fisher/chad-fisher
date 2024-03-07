@@ -2,7 +2,7 @@
 - 👀 I’m interested in sustainable agriculture, conservation, and maps
 - 🌱 I’m currently learning applied data science and remote sensing
 - 💞️ I’m looking to collaborate on invasive species mapping in forest understories and neural net applications in agriculture
-- 📫 How to reach me chad.fisher@tufts.edu
+- 📫 How to reach me chad.fisher@tufts.edu | cefisher20@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to play euchre!
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chad-fisher
 - 👀 I’m interested in sustainable agriculture, conservation, and maps
-- 🌱 I’m currently learning google earth engine, geopandas, and hyperspectral imagery applications
+- 🌱 I’m currently learning Google Earth Engine, pyinaturalist, and machine learning
 - 💞️ I’m looking to collaborate on invasive species mapping in forest understories and neural net applications in agriculture
 - 📫 How to reach me chad.fisher@tufts.edu | cefisher20@gmail.com
 - 😄 Pronouns: he/him

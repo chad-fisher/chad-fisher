@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chad-fisher
-- 👀 I’m interested in sustainable agriculture, conservation, and maps
+- 👀 I’m interested in sustainable agriculture, conservation, and satellites
 - 🌱 I’m currently learning Google Earth Engine, pyinaturalist, and spatial random forests
 - 💞️ I’m looking to collaborate on invasive species mapping in forest understories and machine learning in agriculture/remote snesing
 - 📫 How to reach me chad.fisher@tufts.edu | cefisher20@gmail.com

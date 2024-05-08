@@ -2,8 +2,7 @@
 - 💡 I’m interested in sustainable agriculture, conservation, and satellites
 - 📗 I’m currently learning Google Earth Engine, pyinaturalist, and spatial random forests
 - 🤝 I’m doing part time GIS consulting on a regional tree protection plan, while I look for full-time roles
-- 📫 How to reach me chad.fisher@tufts.edu | cefisher20@gmail.com
-- 😄 Pronouns: he/him
+- 📫 How to reach me cefisher20@gmail.com
 - ⚡ Fun fact: I love to play euchre!
 
 <!---

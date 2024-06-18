@@ -1,33 +1,31 @@
-<h3>👋 Hi, I’m @chad-fisher</h3>
-    <details>
-        <summary>💡 I’m interested in...</summary>
-        <pre>
-          sustainable agriculture, satellites, & machine learning!
-        </pre>
+<h2><b>👋 Hi, I’m @chad-fisher</b></h2>
+<details>
+    <summary>💡 I’m interested in...</summary>
+    <p>    
+    </p>
+    sustainable agriculture, satellites, & machine learning!
     </details>
     <details>
         <summary>📗 I’m currently learning...</summary>
-        <pre>
-          Google Earth Engine, spatial data science in R, and cluster analysis!
-        </pre>
+        <p>
+        </p>
+        spatial data science in R, HTML, and cluster analysis!
     </details>
     <details>
         <summary>🤝 I’m doing part time GIS consulting on a regional tree protection plan, while I look for full-time roles</summary>
-        <pre>
-          <a href="https://www.linkedin.com/in/chad-fisher/">Check out my LinkedIn!</a>
-        </pre>
+        <p>
+        </p>
+          <b><a href="https://www.linkedin.com/in/chad-fisher/" target="_blank">Check out my LinkedIn!</a></b>
     </details>
     <details>
         <summary>📫 Contact Info</summary>
-        <pre>
-            cefisher20@gmail.com or chad.fisher@tufts.edu
-        </pre>
+        <p>
+        </p>
+        cefisher20@gmail.com or chad.fisher@tufts.edu
     </details>
     <details>
         <summary>⚡ Fun fact: </summary>
-        <pre>
-            I love to play euchre!
-        </pre>
+        I love to play <b><a href="https://www.wikihow.com/Play-Euchre" target="_blank">euchre!</a></b>
     </details>
 
 <!---

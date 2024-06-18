@@ -19,11 +19,15 @@
     </details>
     <details>
         <summary>📫 Contact Info</summary>
-        cefisher20@gmail.com or chad.fisher@tufts.edu
+        <pre>
+            cefisher20@gmail.com or chad.fisher@tufts.edu
+        </pre>
     </details>
     <details>
         <summary>⚡ Fun fact: </summary>
-        I love to play euchre!
+        <pre>
+            I love to play euchre!
+        </pre>
     </details>
 
 <!---

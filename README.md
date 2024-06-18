@@ -12,9 +12,10 @@
         spatial data science in R, HTML, and cluster analysis!
     </details>
     <details>
-        <summary>🤝 I’m doing part time GIS consulting on a regional tree protection plan, while I look for full-time roles</summary>
+        <summary>🤝 I’m currently... </summary>
         <p>
         </p>
+        doing part time GIS consulting on a regional tree protection plan, while I look for full-time roles. 
           <b><a href="https://www.linkedin.com/in/chad-fisher/" target="_blank">Check out my LinkedIn!</a></b>
     </details>
     <details>

@@ -15,7 +15,7 @@
         <summary>🤝 I’m currently... </summary>
         <p>
         </p>
-        doing part time GIS consulting on a regional tree protection plan, while I look for full-time roles. 
+        doing part time GIS consulting on a regional tree protection plan for the Charles River Climate Compact, immigrant enclaves and spatial statistics for social determinant of health studies at Tufts Medical Center, and working at the Tufts Data Lab while I look for full-time roles. 
           <b><a href="https://www.linkedin.com/in/chad-fisher/" target="_blank">Check out my LinkedIn!</a></b>
     </details>
     <details>

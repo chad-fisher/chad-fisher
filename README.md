@@ -1,6 +1,6 @@
 <h2><b>👋 Hi, I’m @chad-fisher</b></h2>
 
-~geospatial data scientist working towards a sustianable future~
+~ geospatial data scientist working towards a sustianable future ~
 
 <details>
     <summary>💡 I’m interested in...</summary>

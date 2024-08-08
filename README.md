@@ -1,4 +1,7 @@
 <h2><b>👋 Hi, I’m @chad-fisher</b></h2>
+
+~geospatial data scientist working towards a sustianable future~
+
 <details>
     <summary>💡 I’m interested in...</summary>
     <p>    
@@ -9,20 +12,20 @@
         <summary>📗 I’m currently learning...</summary>
         <p>
         </p>
-        spatial data science in R, HTML, and cluster analysis!
+        spatial data science in R, census data, and cluster analysis!
     </details>
     <details>
         <summary>🤝 I’m currently... </summary>
         <p>
         </p>
-        doing part time GIS consulting on a regional tree protection plan for the Charles River Climate Compact, data science consulting on immigrant enclaves and spatial statistics for social determinant of health studies at Tufts Medical Center, and working at the Tufts Data Lab while I look for full-time roles. 
+        a freelance GIS consultant. Feel free to reach out!
           <b><a href="https://www.linkedin.com/in/chad-fisher/" target="_blank">Check out my LinkedIn!</a></b>
     </details>
     <details>
         <summary>📫 Contact Info</summary>
         <p>
         </p>
-        cefisher20@gmail.com or chad.fisher@tufts.edu
+        cefisher20@gmail.com
     </details>
     <details>
         <summary>⚡ Fun fact: </summary>

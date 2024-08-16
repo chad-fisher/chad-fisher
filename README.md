@@ -1,6 +1,7 @@
 <h2><b>👋 Hi, I’m @chad-fisher</b></h2>
 
 ~ geospatial data scientist working towards a sustianable future ~
+~ avid user of R, python, & ArcGIS ~
 
 <details>
     <summary>💡 I’m interested in...</summary>

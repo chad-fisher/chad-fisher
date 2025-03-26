@@ -6,4 +6,4 @@ chad-fisher/chad-fisher is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chad-fisher&theme=catppuccin_mocha&size_weight=0.5&count_weight=0.5&hide_progress=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chad-fisher&theme=cobalt2 &size_weight=0.5&count_weight=0.5&hide_progress=true)

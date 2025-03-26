@@ -1,4 +1,4 @@
-<h2><b>👋 Hi, I’m @chad-fisher</b></h2>
+<b>👋 Hi, I’m @chad-fisher</b>
 
 Check out my <a href="https://linktr.ee/chad_fisher" target="_blank">portfolio</a> online!
 <!---
